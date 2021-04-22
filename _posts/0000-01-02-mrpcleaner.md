@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"to git or not to git, that is the question"
 Use the left arrow to go back!
